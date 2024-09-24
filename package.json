@@ -88,7 +88,7 @@
     "react-router-dom": "^5.1.2",
     "react-values": "^0.3.0",
     "rimraf": "^3.0.2",
-    "rollup": "^2.26.6",
+    "rollup": "^3.29.5",
     "rollup-plugin-babel": "^4.3.3",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-json": "^4.0.0",
